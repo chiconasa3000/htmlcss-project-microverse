@@ -1,12 +1,19 @@
 #main{
-  width: 80%;
+  margin: 70px;
   display: flex;
   flex-direction:column;
   align-content: center;
-  justify-content: center;
-  
+  justify-content: center; 
 }
+
+figure{
+  text-align: center;  
+}
+
+h1{
+  text-align: center;
+}
+
 #tribute-info {
-  width: 50%;
   text-align: left;
 }
