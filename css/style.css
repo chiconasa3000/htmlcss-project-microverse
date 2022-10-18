@@ -1,9 +1,15 @@
 #main{
   margin: 70px;
-  display: flex;
-  flex-direction:column;
-  align-content: center;
-  justify-content: center; 
+  display:block;
+  align-items: center;
+}
+
+#img-div{
+  display:block;
+}
+#image{
+  max-width: 20em;
+  height: 15em;
 }
 
 figure{
